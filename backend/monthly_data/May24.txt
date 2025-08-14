@@ -1,0 +1,1 @@
+User: 1234, Income: 2500.0, Expenses: 500.0
