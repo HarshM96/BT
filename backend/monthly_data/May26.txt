@@ -1,0 +1,1 @@
+User: harsh2, Income: 500000.0, Expenses: 20000.0
